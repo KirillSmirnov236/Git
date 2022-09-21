@@ -1,5 +1,3 @@
-<<<<<<< HEAD
+
 Hello git , What about ver1?
-=======
 Goodbye git
->>>>>>> ver1
