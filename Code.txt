@@ -1,5 +1,5 @@
 int main(){
-	bool1 = true;
-	bool2 = false;	
+	int A = 5;
+	int B = 10;
 return 0;
 }
