@@ -1,5 +1,9 @@
 int main(){
 	int A = 5;
 	int B = 10;
+	char C="F";
+	for (i= 0 ; i < 10;i++){
+	cout << C <<" "<< A;
+}
 return 0;
 }
