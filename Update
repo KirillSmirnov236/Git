@@ -1,0 +1,6 @@
+int main(){
+  while (x > 10){
+    x+=1;
+    cout <<x;
+  }
+}
