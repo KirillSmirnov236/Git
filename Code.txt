@@ -4,6 +4,9 @@ int main(){
 	char C="F";
 	for (i= 0 ; i < 10;i++){
 	cout << C <<" "<< A;
-}
+	bool1 = true;
+	bool2 = false;	
+	int number = 2;
+	char A = 'A';
 return 0;
 }
